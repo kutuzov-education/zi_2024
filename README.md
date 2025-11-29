@@ -18,7 +18,7 @@
 
 
 Репозиторий на github.io: [https://kutuzov-education.github.io/zi_2024/](https://kutuzov-education.github.io/zi_2024/)   
-Репозиторий на github.com: [https://github.com/kutuzov-education/evm_2025](https://github.com/kutuzov-education/evm_2025)  
+Репозиторий на github.com: [https://github.com/kutuzov-education/zi_2024](https://github.com/kutuzov-education/zi_2024)  
 
 © 2024 Кутузов В.В. — Дисциплина "Защита информации"
 
