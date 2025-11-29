@@ -16,4 +16,9 @@
 13. [Тема 12. Сетевые атаки и защита информации в компьютерных сетях. ver 0.5.2i](Lectures/zi_lec_12_2024_ver_0_5_2i.pdf)  
 14. [Тема 13. Защита internet ресурсов, сайтов, OWAPS. ver 0.4i](Lectures/zi_lec_13_2024_ver_0_4i.pdf)  
 
+
 Репозиторий на github.io: [https://kutuzov-education.github.io/zi_2024/](https://kutuzov-education.github.io/zi_2024/)   
+Репозиторий на github.com: [https://github.com/kutuzov-education/evm_2025](https://github.com/kutuzov-education/evm_2025)  
+
+© 2024 Кутузов В.В. — Дисциплина "Защита информации"
+
